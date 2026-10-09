@@ -6,7 +6,7 @@ A small Streamlit web app that shows basic economic indicators (GDP growth, infl
 
 ## Why I built this
 
-I'm applying to study Business Systems at a university in Poland. I wanted a project that mixes the two things I'm interested in: business and programming. Companies and governments make decisions using data, and I wanted to learn how to turn a table of numbers into something people can understand quickly.
+I'm applying to study Business Informatics at a university in Poland. I wanted a project that mixes the two things I'm interested in: business and programming. Companies and governments make decisions using data, and I wanted to learn how to turn a table of numbers into something people can understand quickly.
 
 I picked European economic indicators because I'm interested in how Poland compares with bigger economies like Germany and France, and how fast tech investment is growing across the region. This is my first full Python project with a web interface, so I kept it simple on purpose.
 
