@@ -1,3 +1,6 @@
+Live Demo:
+(https://europe-econ-tracker-wdqxcxbmrdp7jvjzvy9cea.streamlit.app)
+
 # Europe Economic Indicators Tracker
 
 A small Streamlit web app that shows basic economic indicators (GDP growth, inflation, unemployment, tech investment) for several European countries from 2018 to 2025.
